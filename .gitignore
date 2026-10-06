@@ -1,0 +1,12 @@
+.DS_Store
+__MACOSX/
+*.zip
+*.code-workspace
+*.o
+a.out
+*.out
+# agent files never reach a remote
+CLAUDE.md
+AGENTS.md
+.claude/
+.cursor/
